@@ -1,0 +1,87 @@
+#entete
+{
+    align-content: center;
+}
+header
+{
+    font-family: fantasy, sans-serif,arial;
+    color: black;
+    font-size: larger;
+    letter-spacing: large;
+    text-align: center;
+}
+.IMG
+{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.IMG: first-child
+{
+    align-self: center;
+}
+
+section
+{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+article, aside
+{
+    text-align: justify;
+}
+
+article
+{
+    margin-right: 50px;
+    flex: 3;
+}
+
+article p
+{
+    font-size: 2em;
+}
+
+aside
+{
+    flex: 1.2;
+    position: relative;
+    background-color: #706b64;
+    box-shadow: 0px 2px 5px #1c1a19;
+    border-radius: 0px;
+    padding: 10px;
+    color: white;
+    font-size: 0.9em;
+}
+footer
+{
+    font-size: 1.5rem;
+    padding-top: 0.2px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+h1, h2
+{
+    font-size: 3em;
+    font: lighter;
+    letter-spacing: 3px;
+    box-shadow: 2px 1px 2px;
+    text-align: center;
+    background-color: mediumvioletred;
+
+}
+.speciale
+{
+    font-size: 1.5 em;
+    font: normal;
+    letter-spacing: 2px;
+    box-shadow: ;
+    text-align: right;
+    background-color: olive;
+    text-shadow:1px 1px 1px ;
+    shadow color: black;
+    padding-top: -1rem;
+
+}
