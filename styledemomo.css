@@ -1,0 +1,191 @@
+H1
+{
+   color: sandybrown;
+   font-family: Trebuchet MS,"arial", sans-serif;
+   font-size: 1.5cm; 
+   text-decoration: underline;
+   margin: 0;
+   padding: 0;
+   border: 0;
+   vertical-align: baseline;
+}
+.introduction
+{
+   color: mediumvioletred;
+   font-family: Trebuchet MS,"arial", sans-serif;
+   font-size: large; 
+   text-align: center;
+}
+p
+{
+   color: black;
+   font-family: Trebuchet MS,"arial", sans-serif;
+   font-size: large; 
+   font-style: 3mm;
+   text-align: center;
+}
+strong
+{
+   font-family: trebuchet MS,"arial", sans-serif; 
+   font-size: large; 
+   font-style: italic;
+}
+
+H2
+{
+   color: sandybrown;
+   font-family: Trebuchet MS,"arial", sans-serif;
+   font-size: 1.5cm;
+   text-decoration: underline; 
+   text-align: right;
+   margin: 0;
+   padding: 0;
+   border: 0;
+   vertical-align: baseline;
+}
+ul
+{
+   color: Black;font-family: Trebuchet MS,"arial", sans-serif; 
+   font-size: 5mm; 
+   font-style: normal;
+}
+span
+{
+   font-weight: bold;
+}
+a 
+{
+    font-style: oblique;
+}
+.flotte
+{
+    float: center;
+}
+body
+{
+    background-color: rgb(250, 209, 177);
+}
+img
+{
+    border-radius:60px/35px ; 
+    position: static; 
+    align-content: center; 
+    float: inherit;
+    box-shadow: 5px 10px 18px #888888;
+}
+figure
+{
+     align-content: center;
+}
+.page {
+      margin: 0 auto;
+      max-width: 100%;
+      width: 1200px;
+      border-style: double;
+      padding: 1.5em;
+   }
+p {
+      line-height: 2.5em;
+
+   }
+.entete {
+      padding: 2.5em;
+      border-style: solid;
+}
+.logo
+{   
+   padding: 1.5em;
+   display: flex;
+   align-items: flex-start;
+   justify-content: space-between;
+
+}
+.link
+{   
+   padding: 1.5em;
+   
+      
+}
+.li
+{   
+   padding-left: 0em;
+   padding-top: 0em;
+   padding-bottom: 0em;
+   padding-right: 0;
+
+   
+      
+}
+.lien
+{
+  display: flex;
+   align-items: flex-start;
+   justify-content: space-between;
+   margin-left: 3.5em;
+
+}
+nav
+{
+   line-height: 1.5em;
+   display: flex;
+   align-items: flex-start;
+   justify-content: space-between;
+   
+
+}
+nav ul
+{
+    list-style-type: none;
+    display: flex;
+}
+
+nav li
+{
+    margin-right: 15px;
+}
+
+nav a
+{
+    font-size: 1.3em;
+    color: #181818;
+    padding-bottom: 3px;
+    text-decoration: none;
+}
+
+nav a:hover
+{
+    color: #760001;
+    border-bottom: 3px solid #760001;
+}
+.do
+{
+   align-items: flex-start;
+   display: flex;
+   justify-content: space-between;
+   border-style: solid;
+
+}
+
+ul 
+{
+      line-height: 2.5em;
+
+   }
+
+.lolo
+{
+   color: mediumvioletred;
+   font-family: Trebuchet MS,"arial", sans-serif;
+   font-size: large; 
+   text-align: center;
+   border-style: dotted;
+}
+.loli
+{
+      padding: 2.5em;
+      padding-bottom: 3em;
+      border-style: solid;
+      margin: 3em;
+
+}
+
